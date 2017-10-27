@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Starship", "Test_Starship.csproj", "{E0274D4B-9FB3-D698-6E5B-72256B868B78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Starship.Editor", "Test_Starship.Editor.csproj", "{3FF1DC4A-569E-B2D0-02D8-1EC0FB7CFAE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0274D4B-9FB3-D698-6E5B-72256B868B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0274D4B-9FB3-D698-6E5B-72256B868B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0274D4B-9FB3-D698-6E5B-72256B868B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0274D4B-9FB3-D698-6E5B-72256B868B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF1DC4A-569E-B2D0-02D8-1EC0FB7CFAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF1DC4A-569E-B2D0-02D8-1EC0FB7CFAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF1DC4A-569E-B2D0-02D8-1EC0FB7CFAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF1DC4A-569E-B2D0-02D8-1EC0FB7CFAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
